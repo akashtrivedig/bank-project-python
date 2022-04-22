@@ -1,2 +1,3 @@
-# bank-project--python
-Mini project for banking application built in python.
+# Banking Mini Project in python
+## Mini project built in python.
+## File System based Banking Software.
